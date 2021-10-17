@@ -1,4 +1,4 @@
-# chat-box
+# chat-b
 Problem-Statement: Implementation of a server in a client/server model using Linux Stream sockets Which consists of a server that implement a chat service using simple text protocol that clients use to message other clients on the service through telnet message.
 
 Description:
